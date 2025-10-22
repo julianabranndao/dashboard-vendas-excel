@@ -49,12 +49,12 @@ Transformar dados brutos em **informações visuais e úteis**, permitindo:
 
 ## 📦 Estrutura do Repositório
 
-sql ´´´
+```sql
 ├─ README.md
 ├─ dashboard_vendas.xlsx
 └─ base/
 └─ base.xlsx
-´´´
+```
 
 ---
 
